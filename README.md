@@ -1,5 +1,5 @@
-<br>
+<hr>
 <p align="center">
 wait im loaded 💵🛠
 </p>
-<br>
+<hr>
