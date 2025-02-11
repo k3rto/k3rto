@@ -1,5 +1,5 @@
 <hr>
 <p align="center">
-wait im loaded 💵🛠
+<a href="https://k3rto.github.io/web_profile/" style="text-decoration: none;">wait im loaded 💵🛠</a>
 </p>
 <hr>
