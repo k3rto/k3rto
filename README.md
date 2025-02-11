@@ -1,5 +1,3 @@
-wait im loaded 💵🛠
-
 <p align="center">
-// Your content
+wait im loaded 💵🛠
 </p>
